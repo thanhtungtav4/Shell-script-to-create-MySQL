@@ -13,7 +13,7 @@ Run it sudo ./mysql-db-create.sh dbname dbuser password
 
 ex : ./mysql-db-create.sh dbname dbuser password
 
-
+full code : https://codepen.io/thanhtungtav4/pen/MWemaod
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #!/bin/bash
